@@ -1,4 +1,4 @@
-import { Dish } from "./Dish";
+import { Dish } from "./DishHooks";
 
 function App() {
   return (
